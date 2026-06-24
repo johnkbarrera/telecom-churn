@@ -1,0 +1,4 @@
+riesgo,n_clientes,churn_rate_real,rev_mean,mou_mean,eqpdays_mean,custcare_mean
+Bajo,16044,0.14,59.86,621.32,202.82,2.65
+Medio,54538,0.44,59.78,542.91,405.66,1.9
+Alto,29418,0.8,56.11,399.57,469.62,1.12

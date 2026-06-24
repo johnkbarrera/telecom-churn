@@ -1,0 +1,11 @@
+Feature,Importance_Mean,Importance_Std,Descripción,Accionable
+months,0.04765090905444571,0.0009525398540929657,Meses como cliente,No — no se puede cambiar
+mou_trend,0.020392124663339305,0.0008552192166097317,Tendencia relativa de uso,Sí — alertas tempranas
+totmrc_Mean,0.015499776407390753,0.0008492289121479871,Cargo mensual promedio,Sí — ajustar plan
+mou_rev_trend_divergence,0.00989614634563305,0.0006574113575525762,—,—
+eqpdays,0.008114650468963102,0.0006324609762228809,Equipment Age (days),Sí — ofrecer upgrade
+rfm_composite,0.008039914102070634,0.00044189667372877736,Score RFM compuesto,Sí — segmentación CRM
+rev_per_mou,0.007364791498608447,0.0009133669019973118,Revenue por minuto,Sí — optimizar plan
+hnd_price,0.006638010732898603,0.0006420766625436273,Precio del teléfono,Sí — subsidios
+mrc_per_mou,0.006447423307695011,0.0005531656700352157,—,—
+qty_momentum,0.0045298268282586655,0.00041392923976132614,—,—
